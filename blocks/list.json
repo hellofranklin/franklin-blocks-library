@@ -1,0 +1,69 @@
+ [
+    {
+      "name": "cards",
+       "preview": true,
+       "docTable": true,
+       "reference": "https://www.hlx.live/developer/block-collection/cards",
+       "icon": "fa-address-card"
+       
+    },
+    {
+      "name": "columns",
+      "preview": true,
+      "docTable": true,
+      "reference": "https://www.hlx.live/developer/block-collection/columns",
+      "icon": "fa-columns"
+    },
+    {
+      "name": "embed",
+      "preview": true,
+      "docTable": true,
+      "reference": "https://www.hlx.live/developer/block-collection/columns",
+      "icon": "fa-anchor"
+       
+    },
+    {
+      "name": "form",
+      "preview": true,
+      "docTable": true,
+      "reference": "https://img.icons8.com/ios/512/test.png",
+      "icon": "fa-rectangle-list"
+      
+    },
+    {
+      "name": "metadata",
+      "preview": true,
+      "docTable": true,
+      "reference": "https://www.hlx.live/developer/block-collection/columns",
+      "icon": "fa-file-invoice"
+      
+    },
+    {
+      "name": "poll",
+      "preview": true,
+      "docTable": true,
+      "reference": "https://www.hlx.live/developer/block-collection/columns",
+      "icon": "fa-square-poll-horizontal"
+    },
+    {
+      "name": "section-background",
+      "preview": true,
+      "docTable": true,
+      "reference": "https://www.hlx.live/developer/block-collection/columns",
+      "icon": "fa-layer-group"
+    },
+    {
+      "name": "winners-carousel",
+      "preview": true,
+      "docTable": true,
+      "reference": "https://www.hlx.live/developer/block-collection/columns",
+      "icon": "fa-trophy"
+    },
+    {
+      "name": "section-bar",
+      "preview": true,
+      "docTable": true,
+      "reference": "https://www.hlx.live/developer/block-collection/columns",
+      "icon": "fa-bars"
+    }
+]
