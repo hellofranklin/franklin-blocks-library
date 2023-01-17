@@ -65,5 +65,12 @@
       "docTable": true,
       "reference": "https://www.hlx.live/developer/block-collection/columns",
       "icon": "fa-bars"
+    },
+    {
+      "name": "AdaptiveForm",
+      "preview": false,
+      "docTable": true,
+      "reference": "https://main--afb--jalagari.hlx.page",
+      "icon": "fa-bars"
     }
 ]
